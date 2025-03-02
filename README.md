@@ -15,4 +15,4 @@
 - python-dotenv for environment variable management."
 
 ## Homescreen :
-![Image](https://github.com/user-attachments/assets/f7099d7c-2781-4e27-a392-ef22162f7c8f)
+<img width="630" alt="Image" src="https://github.com/user-attachments/assets/79eac907-5779-403b-826f-e40bf2b2f31c" />
