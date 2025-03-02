@@ -6,7 +6,8 @@
 - Real-time integration with flight, train, bus, and cab transport services.
 - Language translation capabilities.
 
-## Deployment link : `https://simplifytravels.streamlit.app/`
+## Deployment link : url(**https://simplifytravels.streamlit.app/**)
+
 
 ## Built using:
 - Streamlit for the user interface.
